@@ -143,4 +143,4 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Optional Playthings | *** | [[sobel.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sobel.py) | [[FFT.py]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/FFT.py) |
 | Problem Sheet MM04  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04.pdf) |
 | Problem Sheet MM04  | - | Answers  | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04-Solutions.pdf) |
-| Q&A Session  | 36:40 | [[Stream link]] | [[Stream link]](https://web.microsoftstream.com/video/2b97c940-1de5-48ea-933f-a88a866499e6) |
+| Q&A Session  | 36:40 | [[Stream link]](https://web.microsoftstream.com/video/2b97c940-1de5-48ea-933f-a88a866499e6) |-|
