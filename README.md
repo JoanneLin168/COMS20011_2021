@@ -144,3 +144,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Problem Sheet MM04  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04.pdf) |
 | Problem Sheet MM04  | - | Answers  | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04-Solutions.pdf) |
 | Q&A Session  | 36:40 | [[Stream link]](https://web.microsoftstream.com/video/2b97c940-1de5-48ea-933f-a88a866499e6) |-|
+
+
+#### QUIZ!!!
+* [DATE/TIME To Be Determined!]  - Fun Quiz online on Teams - the link to join the Quiz will be posted in the usual channel (grp-COMS20011_2021). The Quiz will includes multiple choice (but rather simple) questions on Majid's part of the unit as well as some other fun questions!
