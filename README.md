@@ -21,6 +21,10 @@ The routes for feedback are:
 
 There will be "lab" exercises released in the "lab" folder.
 
+## Past exams
+As the course has only run in its present form for one year, we only have one [past exam paper](https://github.com/LaurenceA/COMS20011_2021/blob/main/past_exams/COMS20011_Exam21.pdf) with [answers](https://github.com/LaurenceA/COMS20011_2021/blob/main/past_exams/COMS20011_Exam21-answers.pdf)
+
+
 ## Mathematical background material
 Important: these are not pre-requisites!  Please don't try to look at all of the material!  They're intended as supplements to the first-year maths courses to help clear up specific issues with the derivations in the course.  Feel free to raise an issue/pull-request if you have recommendations for other resources.
 
