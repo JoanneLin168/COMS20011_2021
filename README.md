@@ -147,4 +147,5 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 
 
 #### QUIZ!!!
-* [DATE/TIME To Be Determined!]  - Fun Quiz online on Teams - the link to join the Quiz will be posted in the usual channel (grp-COMS20011_2021). The Quiz will includes multiple choice (but rather simple) questions on Majid's part of the unit as well as some other fun questions!
+* [1pm on May 5th: ONLINE (this is during the lab session) ]  - Fun Quiz online on Teams - the link to join the Quiz is https://kahoot.it/ and will be posted in the usual channel (grp-COMS20011_2021). Join our meeting in the channel first at 1pm on May 5th.
+The Quiz will includes multiple choice questions on Majid's part of the unit (but rather simple as time will be limited) as well as some other fun questions!
