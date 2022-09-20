@@ -21,6 +21,10 @@ The routes for feedback are:
 
 There will be "lab" exercises released in the "lab" folder.
 
+## Past exams
+As the course has only run in its present form for one year, we only have one [past exam paper](https://github.com/LaurenceA/COMS20011_2021/blob/main/past_exams/COMS20011_Exam21.pdf) with [answers](https://github.com/LaurenceA/COMS20011_2021/blob/main/past_exams/COMS20011_Exam21-answers.pdf)
+
+
 ## Mathematical background material
 Important: these are not pre-requisites!  Please don't try to look at all of the material!  They're intended as supplements to the first-year maths courses to help clear up specific issues with the derivations in the course.  Feel free to raise an issue/pull-request if you have recommendations for other resources.
 
@@ -139,4 +143,9 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Optional Playthings | *** | [[sobel.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sobel.py) | [[FFT.py]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/FFT.py) |
 | Problem Sheet MM04  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04.pdf) |
 | Problem Sheet MM04  | - | Answers  | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04-Solutions.pdf) |
-| Q&A Session  | - | [[Stream link]] | After Easter Break  |
+| Q&A Session  | 36:40 | [[Stream link]](https://web.microsoftstream.com/video/2b97c940-1de5-48ea-933f-a88a866499e6) |-|
+
+
+#### QUIZ!!!
+* [1pm on May 5th: ONLINE (this is during the lab session) ]  - Fun Quiz online on Teams - the link to join the Quiz is https://kahoot.it/ and will be posted in the usual channel (grp-COMS20011_2021). Join our meeting in the channel first at 1pm on May 5th.
+The Quiz will includes multiple choice questions on Majid's part of the unit (but rather simple as time will be limited) as well as some other fun questions!
